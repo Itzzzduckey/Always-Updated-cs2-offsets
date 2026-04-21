@@ -64,12 +64,16 @@
         "parent": null
       },
       "CBasePlayerVData": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
       "CBasePlayerWeaponVData": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
@@ -93,14 +97,16 @@
         "parent": null
       },
       "CBodyComponent": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CBodyComponentBaseAnimGraph": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "CBodyComponentBaseModelEntity": {
         "fields": {},
@@ -135,12 +141,16 @@
         "parent": null
       },
       "CCS2UIPawnGraphController": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
       "CCS2WeaponGraphController": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
@@ -177,17 +187,23 @@
         "parent": null
       },
       "CCSGameModeRules_ArmsRace": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
       "CCSGameModeRules_Deathmatch": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
       "CCSGameModeRules_Noop": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
@@ -222,22 +238,30 @@
         "parent": null
       },
       "CCSPlayerController_ActionTrackingServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CCSPlayerController_DamageServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CCSPlayerController_InGameMoneyServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CCSPlayerController_InventoryServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -263,17 +287,23 @@
         "parent": null
       },
       "CCSPlayer_ActionTrackingServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CCSPlayer_BulletServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "CCSPlayer_BuyServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -283,17 +313,23 @@
         "parent": null
       },
       "CCSPlayer_DamageReactServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CCSPlayer_GlowServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": "client"
       },
       "CCSPlayer_HostageServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -308,9 +344,11 @@
         "parent": null
       },
       "CCSPlayer_PingServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "CCSPlayer_UseServices": {
         "fields": {},
@@ -365,9 +403,11 @@
         "parent": null
       },
       "CClientAlphaProperty": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "CCollisionProperty": {
         "fields": {
@@ -546,7 +586,7 @@
       "CFuncRetakeBarrier": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "CFuncWater": {
         "fields": {},
@@ -587,7 +627,9 @@
         "parent": null
       },
       "CHitboxComponent": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": "client"
       },
@@ -661,7 +703,9 @@
         "parent": null
       },
       "CLightComponent": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -704,10 +748,12 @@
       "CPathNode": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "CPathQueryComponent": {
-        "fields": {},
+        "fields": {
+          "": 1458781682
+        },
         "metadata": [],
         "parent": "server"
       },
@@ -736,27 +782,37 @@
         "parent": null
       },
       "CPlayer_AutoaimServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CPlayer_CameraServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CPlayer_FlashlightServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CPlayer_ItemServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CPlayer_MovementServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -766,22 +822,30 @@
         "parent": null
       },
       "CPlayer_ObserverServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CPlayer_UseServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CPlayer_WaterServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CPlayer_WeaponServices": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -813,12 +877,16 @@
         "parent": null
       },
       "CPrecipitationVData": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": "MNotSaved"
       },
       "CPropDataComponent": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -849,7 +917,9 @@
         "parent": null
       },
       "CPulseCell_BaseFlow": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": "pulse_runtime_lib"
       },
@@ -861,13 +931,16 @@
       "CPulseCell_BaseLerp__CursorState_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
       },
       "CPulseCell_BaseRequirement": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": "pulse_runtime_lib"
       },
@@ -877,7 +950,9 @@
         "parent": null
       },
       "CPulseCell_BaseValue": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": "pulse_runtime_lib"
       },
@@ -954,7 +1029,8 @@
       "CPulseCell_IntervalTimer__CursorState_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -977,7 +1053,9 @@
         "parent": "client"
       },
       "CPulseCell_LerpCameraSettings__CursorState_t": {
-        "fields": {},
+        "fields": {
+          "": 100664660
+        },
         "metadata": [],
         "parent": "client"
       },
@@ -996,7 +1074,8 @@
       "CPulseCell_LimitCount__InstanceState_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -1009,7 +1088,8 @@
       "CPulseCell_Outflow_CycleOrdered__InstanceState_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -1049,7 +1129,8 @@
       "CPulseCell_PlaySequence__CursorState_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -1092,7 +1173,9 @@
         "parent": null
       },
       "CPulseCell_Unknown": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
         "parent": null
       },
@@ -1227,7 +1310,9 @@
         "parent": null
       },
       "CPulse_ResumePoint": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -1237,12 +1322,16 @@
         "parent": null
       },
       "CRenderComponent": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
       "CSMatchStats_t": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -1266,7 +1355,9 @@
         "parent": null
       },
       "CScriptComponent": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -1276,7 +1367,9 @@
         "parent": null
       },
       "CSkeletonInstance": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -1298,9 +1391,11 @@
         "parent": null
       },
       "CTimeline": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
-        "parent": "�@���"
+        "parent": "�@1��"
       },
       "CTriggerFan": {
         "fields": {},
@@ -1318,7 +1413,9 @@
         "parent": null
       },
       "C_AttributeContainer": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -1330,7 +1427,7 @@
       "C_BaseButton": {
         "fields": {},
         "metadata": [],
-        "parent": "�����"
+        "parent": "��0��"
       },
       "C_BaseCSGrenade": {
         "fields": {},
@@ -1358,9 +1455,11 @@
         "parent": null
       },
       "C_BaseEntity": {
-        "fields": {},
+        "fields": {
+          "": 116721307
+        },
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_BaseEntityAPI": {
         "fields": {
@@ -1377,7 +1476,7 @@
       "C_BaseModelEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_BaseModelEntity__Emphasized_Phoneme": {
         "fields": {
@@ -1389,7 +1488,7 @@
       "C_BasePlayerPawn": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_BasePlayerWeapon": {
         "fields": {},
@@ -1404,7 +1503,7 @@
       "C_BaseToggle": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_BaseTrigger": {
         "fields": {},
@@ -1414,7 +1513,7 @@
       "C_Beam": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_Breakable": {
         "fields": {},
@@ -1434,7 +1533,7 @@
       "C_C4": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_CS2HudModelAddon": {
         "fields": {},
@@ -1624,7 +1723,7 @@
       "C_CSTeam": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_CSWeaponBase": {
         "fields": {},
@@ -1681,7 +1780,7 @@
       "C_DecoyGrenade": {
         "fields": {},
         "metadata": [],
-        "parent": "client"
+        "parent": null
       },
       "C_DecoyProjectile": {
         "fields": {},
@@ -1726,7 +1825,9 @@
         "parent": null
       },
       "C_EconItemView": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": "\u0001"
       },
@@ -2009,7 +2110,7 @@
       "C_Knife": {
         "fields": {},
         "metadata": [],
-        "parent": "@SH�� H��H�\u0015\u0010��\u0001H���Z\u0002\u0001H��H�� [����������������@SH�� H��H�\u0015P{�\u0001H���hZ\u0002\u0001H��H�� [����H��X\u0011"
+        "parent": "@SH�� H��H�\u0015���\u0001H���Z\u0002\u0001H��H�� [����������������@SH�� H��H�\u0015 |�\u0001H���XZ\u0002\u0001H��H�� [����H��X\u0011"
       },
       "C_LateUpdatedAnimating": {
         "fields": {},
@@ -2044,7 +2145,7 @@
       "C_LocalTempEntity": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_MapPreviewParticleSystem": {
         "fields": {},
@@ -2077,7 +2178,9 @@
         "parent": null
       },
       "C_MultiplayRules": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -2124,7 +2227,7 @@
       "C_PhysPropClientside": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_PhysicsProp": {
         "fields": {},
@@ -2283,7 +2386,9 @@
         "parent": null
       },
       "C_SingleplayRules": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": "client"
       },
@@ -2300,7 +2405,7 @@
       "C_SmokeGrenadeProjectile": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_SoundAreaEntityBase": {
         "fields": {},
@@ -2380,7 +2485,7 @@
       "C_SoundOpvarSetPointBase": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_SoundOpvarSetPointEntity": {
         "fields": {},
@@ -2395,7 +2500,7 @@
       "C_Sprite": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_StattrakModule": {
         "fields": {},
@@ -2485,7 +2590,7 @@
       "C_WeaponBizon": {
         "fields": {},
         "metadata": [],
-        "parent": "xL�\u0019�"
+        "parent": "xLP��"
       },
       "C_WeaponCZ75a": {
         "fields": {},
@@ -2555,7 +2660,7 @@
       "C_WeaponMP7": {
         "fields": {},
         "metadata": [],
-        "parent": "��+��"
+        "parent": "�����"
       },
       "C_WeaponMP9": {
         "fields": {},
@@ -2630,7 +2735,7 @@
       "C_WeaponUSPSilencer": {
         "fields": {},
         "metadata": [],
-        "parent": null
+        "parent": "xLP��"
       },
       "C_WeaponXM1014": {
         "fields": {},
@@ -2910,7 +3015,9 @@
         "parent": null
       },
       "SignatureOutflow_Continue": {
-        "fields": {},
+        "fields": {
+          "": -335741443
+        },
         "metadata": [],
         "parent": null
       },
@@ -2971,7 +3078,8 @@
       "inv_image_camera_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -2979,7 +3087,8 @@
       "inv_image_clearcolor_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -3011,7 +3120,8 @@
       "inv_image_light_barn_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -3019,7 +3129,8 @@
       "inv_image_light_fill_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -3027,7 +3138,8 @@
       "inv_image_light_sun_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
@@ -3059,7 +3171,8 @@
       "screenshake_t": {
         "fields": {
           "": 0,
-          "C": 1176944006
+          "C": -2036941434,
+          "�&:$� w\u001c�\u0016\u000f\u0010-\ne\u0004����*�B������\u0003��/�C�����������>����\u0005\u0001\r�\u0013�\u0019{\u001e�!�\"\u0006#�\"R!R\u001e�\u0019�\u0014\r\u000f�\u0007��������Z��'���ژܷ�\"�����;�x�_����": 0
         },
         "metadata": [],
         "parent": null
